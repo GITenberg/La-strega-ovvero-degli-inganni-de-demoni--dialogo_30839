@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34849
     wikipedia: http://en.wikipedia.org/wiki/Giovanni_Francesco_Pico_della_Mirandola
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30839#La-strega-ovvero-degli-inganni-de-demoni--dialogo
 gutenberg_bookshelf: IT Religione e Spiritualità
 gutenberg_issued: '2010-01-03'
 gutenberg_type: Text
