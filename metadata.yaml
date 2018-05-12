@@ -1,0 +1,38 @@
+_repo: La-strega-ovvero-degli-inganni-de-demoni--dialogo_30839
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Turini, Turino
+    gutenberg_agent_id: '42293'
+    url: http://www.gutenberg.org/2009/agents/42293
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pico della Mirandola, Giovanni Francesco
+    aliases:
+    - Della Mirandola, Giovanni Francesco Pico
+    - Mirandola, Giovanni Francesco Pico della
+    birthdate: 1470
+    deathdate: 1533
+    gutenberg_agent_id: '34849'
+    url: http://www.gutenberg.org/2009/agents/34849
+    wikipedia: http://en.wikipedia.org/wiki/Giovanni_Francesco_Pico_della_Mirandola
+description: ''
+gutenberg_bookshelf: IT Religione e Spiritualità
+gutenberg_issued: '2010-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30839'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Demonology'
+- !lcsh 'Witchcraft'
+- !lcsh 'Magic'
+- !lcc 'BF'
+title: 'La strega, ovvero, degli inganni de'' demoni: dialogo'
+url: http://www.gutenberg.org/ebooks/30839
